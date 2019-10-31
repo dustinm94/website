@@ -1,0 +1,46 @@
+body {
+    background-color: #222629;
+}
+h1 {
+    color: white;
+    margin-bottom: .5rem;
+}
+.name_container {
+    color: #FFFF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    left: 50%;
+    margin: 0;
+    margin-right: -50%;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+.social_container {
+    color: #FFFF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    left: 50%;
+    margin: 0;
+    margin-right: -50%;
+    position: absolute;
+    top: 150%;
+    transform: translate(-65%, -65%);
+}
+#typed {
+    color: #86c232;
+}
+.fa-linkedin:hover {
+    color:#0077B5 !important;
+    cursor: pointer;
+}
+.fa-github-square:hover {
+    color: #6e5494 !important;
+    cursor: pointer;
+}
+.fa-linkedin {
+    padding-right: 15px;
+}
+a {
+    color: white;
+}
